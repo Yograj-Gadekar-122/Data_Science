@@ -1,0 +1,54 @@
+Age,Gender,Do you play PUBG game,How long have you been playing this game,How often do you play this Game,How much time you spent daily,How affect this game on students,Positive effects of playing PUBG,Negative effects of playing PUBG,What are reasons that you dont play PUBG,How affect this game on students,According to you are there positive effects of playing PUBG
+21,Female,Yes,Less than 1 year,Several in a week,Upto 1 hour,Positive,Leadership Qualities,Affects mental health,,,
+24,Male,Yes,Less than 1 year,Several in a day,Upto 1 hour,Negative,"Alertness, Co-ordination, Leadership Qualities","Addiction, Anti-social, Poor physical health, Affects mental health, Bad academic score",,,
+22,Male,Yes,1 - 2 years,Several in a week,1 - 2 hours,Negative,Alertness,"Violent tendency, Addiction, Poor physical health, Affects mental health, Disturb sleep pattern, Bad academic score",,,
+23,Male,Yes,1 - 2 years,Several in a week,1 - 2 hours,Positive,"Alertness, Co-ordination, Leadership Qualities",Addiction,,,
+21,Female,Yes,Less than 1 year,Several in a day,Less than 30 minute,Negative,Alertness,"Violent tendency, Addiction, Anti-social, Poor physical health, Affects mental health, Disturb sleep pattern, Bad academic score",,,
+24,Male,Yes,Less than 1 year,Several in a week,Less than 30 minute,Positive,"Alertness, Co-ordination, Cognition, Leadership Qualities, Concentration","Addiction, Disturb sleep pattern",,,
+22,Male,Yes,More than 2 years,Several in a month,Less than 30 minute,Negative,"Alertness, Co-ordination, Cognition, Leadership Qualities","Violent tendency, Addiction, Anti-social, Poor physical health, Affects mental health, Disturb sleep pattern, Bad academic score",,,
+22,Female,Yes,Less than 1 year,Several in a month,Less than 30 minute,Negative,Alertness,"Addiction, Affects mental health",,,
+24,Male,Yes,Less than 1 year,Several in a week,Upto 1 hour,Negative,Concentration,"Poor physical health, Affects mental health, Bad academic score",,,
+26,Male,Yes,Less than 1 year,Several in a day,Upto 1 hour,Negative,"Alertness, Co-ordination, Leadership Qualities, Presence of mind","Violent tendency, Addiction, Anti-social, Poor physical health, Affects mental health, Bad academic score",,,
+18,Female,Yes,Less than 1 year,Several in a day,More than 2 hours,Negative,"Alertness, Leadership Qualities","Addiction, Poor physical health, Disturb sleep pattern, Bad academic score",,,
+18,Male,Yes,1 - 2 years,Several in a week,Upto 1 hour,Positive,"Co-ordination, Cognition","Addiction, Anti-social, Poor physical health",,,
+20,Female,Yes,More than 2 years,Several in a day,Upto 1 hour,Positive,"Cognition, Leadership Qualities","Addiction, Affects mental health, Bad academic score",,,
+19,Male,Yes,Less than 1 year,Several in a week,Upto 1 hour,Positive,"Cognition, Leadership Qualities","Addiction, Disturb sleep pattern, Bad academic score",,,
+21,Male,Yes,More than 2 years,Several in a week,1 - 2 hours,Positive,"Co-ordination, Cognition","Addiction, Anti-social, Poor physical health, Disturb sleep pattern",,,
+22,Male,Yes,1 - 2 years,Several in a week,Less than 30 minute,Positive,"Alertness, Leadership Qualities","Violent tendency, Addiction, Affects mental health, Disturb sleep pattern",,,
+23,Male,Yes,More than 2 years,Several in a week,1 - 2 hours,Positive,"Alertness, Co-ordination, Leadership Qualities","Violent tendency, Poor physical health, Disturb sleep pattern",,,
+25,Male,Yes,1 - 2 years,Several in a day,Less than 30 minute,Negative,"Co-ordination, Cognition","Addiction, Anti-social, Affects mental health, Disturb sleep pattern",,,
+23,Female,Yes,1 - 2 years,Several in a week,1 - 2 hours,Positive,"Alertness, Co-ordination, Cognition","Addiction, Poor physical health, Bad academic score",,,
+25,Male,Yes,More than 2 years,Several in a month,Upto 1 hour,Positive,"Alertness, Cognition, Leadership Qualities","Violent tendency, Addiction, Anti-social, Poor physical health",,,
+27,Male,Yes,1 - 2 years,Several in a day,1 - 2 hours,Positive,"Alertness, Cognition","Violent tendency, Anti-social, Poor physical health, Disturb sleep pattern",,,
+27,Female,Yes,1 - 2 years,Several in a week,1 - 2 hours,Positive,"Co-ordination, Cognition, Leadership Qualities","Violent tendency, Anti-social, Poor physical health, Disturb sleep pattern",,,
+26,Female,Yes,1 - 2 years,Several in a month,1 - 2 hours,Negative,"Co-ordination, Leadership Qualities","Addiction, Anti-social, Affects mental health, Bad academic score",,,
+23,Male,No,,,,,,,"Violent tendency, Addictive, Affects mental health, Disturb sleep pattern, Bad academic score, Don't like to play",Negative,No
+24,Male,No,,,,,,,"Addictive, Anti-social, Poor physical health, Affects mental health, Disturb sleep pattern, Bad academic score, Don't like to play",Negative,No
+23,Male,No,,,,,,,"Violent tendency, Addictive, Anti-social, Poor physical health, Affects mental health, Disturb sleep pattern, Bad academic score, Don't like to play",Negative,No
+23,Female,No,,,,,,,"Violent tendency, Addictive, Bad academic score",Negative,No
+23,Male,No,,,,,,,Don't like to play,Negative,No
+27,Female,No,,,,,,,Affects mental health,Negative,No
+23,Male,No,,,,,,,"Violent tendency, Addictive, Anti-social, Poor physical health, Affects mental health, Disturb sleep pattern, Bad academic score, Don't like to play",Negative,No
+23,Female,No,,,,,,,"Violent tendency, Addictive, Affects mental health, Disturb sleep pattern, Bad academic score, Don't like to play",Negative,No
+22,Female,No,,,,,,,"Violent tendency, Addictive, Disturb sleep pattern",Negative,No
+23,Female,No,,,,,,,Don't like to play,Negative,No
+22,Female,No,,,,,,,Don't like to play,Negative,Yes
+22,Female,No,,,,,,,Don't like to play,Negative,No
+24,Male,No,,,,,,,"Addictive, Disturb sleep pattern, Bad academic score",Negative,Yes
+22,Male,No,,,,,,,Don't like to play,Negative,No
+23,Female,No,,,,,,,"Addictive, Anti-social, Affects mental health, Bad academic score, Don't like to play",Negative,No
+23,Female,No,,,,,,,"Affects mental health, Disturb sleep pattern",Negative,No
+23,Male,No,,,,,,,"Poor physical health, Don't like to play",Negative,No
+19,Male,No,,,,,,,"Violent tendency, Addictive, Poor physical health, Affects mental health, Disturb sleep pattern",Negative,Yes
+19,Male,No,,,,,,,"Violent tendency, Poor physical health, Disturb sleep pattern, Bad academic score, Don't like to play",Negative,No
+20,Male,No,,,,,,,"Addictive, Anti-social, Affects mental health, Don't like to play",Negative,No
+18,Male,No,,,,,,,"Addictive, Poor physical health",Negative,No
+19,Female,No,,,,,,,"Poor physical health, Disturb sleep pattern, Bad academic score",Negative,No
+22,Female,No,,,,,,,"Anti-social, Poor physical health, Affects mental health",Negative,No
+21,Female,No,,,,,,,"Violent tendency, Poor physical health, Don't like to play",Negative,No
+21,Male,No,,,,,,,"Addictive, Anti-social, Poor physical health, Affects mental health",Negative,No
+25,Male,No,,,,,,,"Addictive, Poor physical health, Affects mental health",Negative,Yes
+24,Female,No,,,,,,,"Poor physical health, Affects mental health, Disturb sleep pattern, Bad academic score",Negative,Yes
+24,Female,No,,,,,,,"Addictive, Poor physical health, Disturb sleep pattern",Negative,No
+22,Male,No,,,,,,,"Poor physical health, Bad academic score",Negative,Yes
+23,Female,No,,,,,,,"Violent tendency, Addictive, Anti-social, Poor physical health, Affects mental health, Don't like to play",Negative,No
